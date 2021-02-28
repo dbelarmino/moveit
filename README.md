@@ -98,9 +98,6 @@ $ git clone git@github.com:douglasbelarmino/moveit.git moveit
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd moveit
 
-# Vá para a pasta da aplicação Front End
-$ cd web
-
 # Instale as dependências
 $ yarn
 
