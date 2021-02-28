@@ -65,20 +65,18 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/6PfCPqOQSzkzEo6OixmIUC/Move.it-1.0-(Copy)?node-id=149811%3A14">
+<a href="https://www.figma.com/file/Sg8KWSoXzk3tUX0d1ZVHvn/Move.it-1.0-(Copy)">
   <img alt="Figma" src="https://img.shields.io/badge/Acessar%20Layout%20Web%20-Figma-%235965e0">
 </a>
 
-### Web
-
 <p align="center">
-  <img alt="Home" title="Home" src="https://user-images.githubusercontent.com/36802445/109427376-e6f66d00-79d0-11eb-8516-e27ef5f6126a.png" width="250px">
+  <img alt="Home" title="Home" src="https://user-images.githubusercontent.com/36802445/109427376-e6f66d00-79d0-11eb-8516-e27ef5f6126a.png">
 
-  <img alt="Ciclo iniciado" title="Ciclo iniciado" src="https://user-images.githubusercontent.com/36802445/109427380-e8c03080-79d0-11eb-8bc1-e6d827479c39.png" width="250px">
+  <img alt="Ciclo iniciado" title="Ciclo iniciado" src="https://user-images.githubusercontent.com/36802445/109427380-e8c03080-79d0-11eb-8bc1-e6d827479c39.png">
   
-  <img alt="Ciclo encerrado" title="Ciclo encerrado" src="https://user-images.githubusercontent.com/36802445/109427379-e8279a00-79d0-11eb-9945-dfe05fc8d896.png" width="250px">
+  <img alt="Ciclo encerrado" title="Ciclo encerrado" src="https://user-images.githubusercontent.com/36802445/109427379-e8279a00-79d0-11eb-9945-dfe05fc8d896.png">
   
-  <img alt="Compartilhar" title="Compartilhar" src="https://user-images.githubusercontent.com/36802445/109427378-e8279a00-79d0-11eb-9fbf-afe234d18297.png" width="250px">
+  <img alt="Compartilhar" title="Compartilhar" src="https://user-images.githubusercontent.com/36802445/109427378-e8279a00-79d0-11eb-9fbf-afe234d18297.png">
 </p>
 ---
 
@@ -131,10 +129,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Utilitários**
 
 - Protótipo: **[Figma](https://www.figma.com/)**
-- Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
+- Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
 - Markdown: **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 
-- Fontes: **[Archivo](https://fonts.google.com/specimen/Archivo)**, **[Poppins](https://fonts.google.com/specimen/Poppins)**
+- Fontes: **[Inter](https://fonts.google.com/specimen/Inter)**, **[Rajdhani](https://fonts.google.com/specimen/Rajdhani)**
 
 ---
 
@@ -160,7 +158,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/36802445?s=460&u=9af2af554d1947d09b9bf2e9cfb06d2f1ece22f7&v=4" width="100px;" alt=""/><br /><sub><b>Douglas Belarmino</b></sub>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasbelarmino/)](https://www.linkedin.com/in/douglas-belarmino/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/douglasbelarmi)](https://twitter.com/douglasbelarmi)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/douglasbelarr)](https://twitter.com/douglasbelarr)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasbelarmino@gmail.com)](mailto:douglas.belarr@gmail.com)
 
 ---
