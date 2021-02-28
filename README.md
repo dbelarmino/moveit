@@ -16,21 +16,21 @@
   </a>
 
   <a href="https://rocketseat.com.br">
-    <img alt="Feito por Douglas" src="https://img.shields.io/badge/feito%20por-Douglas-%235965e0">
+    <img alt="Moveit" src="https://img.shields.io/badge/feito%20por-Douglas-%235965e0">
   </a>
 </p>
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/36802445/109426540-f83d7a80-79cc-11eb-9bf3-10cad494a85c.png" />
+    <img alt="Moveit" title="#Moveit" src="https://user-images.githubusercontent.com/36802445/109426540-f83d7a80-79cc-11eb-9bf3-10cad494a85c.png" />
 </h1>
 
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/36802445/109426517-da701580-79cc-11eb-887d-3a0669b5c488.png" />
+    <img alt="Moveit" title="#Moveit" src="https://user-images.githubusercontent.com/36802445/109426517-da701580-79cc-11eb-887d-3a0669b5c488.png" />
 </h1>
 
 <h4 align="center"> 
-	🚧  Proffy ♻️ Finalizado 🚀 🚧
+	🚧  Moveit ♻️ Finalizado 🚀 🚧
 </h4>
 
 <p align="center">
@@ -46,36 +46,18 @@
 
 ## 💻 Sobre o projeto
 
-♻️ Proffy - é uma plataforma de estudos onde conseguimos conectar alunos a professores para ter aulas online.
+♻️ Moveit - é uma aplicação que uni a técnica de pomodoro para gestão de tempo e desafios que incentivam a praticar exercício após o término do ciclo.
 
-Projeto desenvolvido durante a **NLW - Next Level Week 2** oferecida pela @rocketseat.
+Projeto desenvolvido durante a **NLW - Next Level Week 4** oferecida pela @rocketseat.
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o único objetivo é te levar para o próximo nível.
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] Professores podem se cadastrar na plataforma web enviando:
-
-  - [x] seus dados:
-    - nome completo
-    - link da sua foto
-    - whatsapp
-    - biografia
-  - [x] sobre a aula:
-    - matéria
-    - custo da sua hora por aula
-  - [x] horário disponíveis:
-    - dia da semana
-    - das - horário de incio
-    - até - horário de fim
-
-- [x] navegar pela lista para ver os professores cadastradas
-
-- [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
-  - [x] navegar pela lista para ver os professores cadastradas
-  - [x] favoritar os professores
-  - [x] entrar em contato com a entidade através do WhatsApp
+- [x] O usuário pode inciar um ciclo
+- [x] Após o término do ciclo o usuário pode informar que completou ou falhou o desafio
+- [x] O usuário informando que completou ele ganhar pontos e pode subir de level
 
 ---
 
@@ -83,87 +65,32 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/9wmhc90zK7cLfq2XsW9hn4/Proffy-Web?node-id=0%3A1">
-  <img alt="Made by douglasbelarmino" src="https://img.shields.io/badge/Acessar%20Layout%20Web%20-Figma-%235965e0">
-</a>
-
-<a href="https://www.figma.com/file/uanRUd0em9Hww7PeFb0I5s/Proffy-Mobile?node-id=0%3A1">
-  <img alt="Made by douglasbelarmino" src="https://img.shields.io/badge/Acessar%20Layout%20Mobile%20-Figma-%235965e0">
+<a href="https://www.figma.com/file/6PfCPqOQSzkzEo6OixmIUC/Move.it-1.0-(Copy)?node-id=149811%3A14">
+  <img alt="Figma" src="https://img.shields.io/badge/Acessar%20Layout%20Web%20-Figma-%235965e0">
 </a>
 
 ### Web
 
 <p align="center">
-  <img alt="Proffy NLW" title="#Proffy NLW" src="https://user-images.githubusercontent.com/36802445/89645387-13f5fd80-d890-11ea-86f2-699407229440.png" width="250px">
+  <img alt="Home" title="Home" src="https://user-images.githubusercontent.com/36802445/109427376-e6f66d00-79d0-11eb-8516-e27ef5f6126a.png" width="250px">
 
-  <img alt="Proffy NLW" title="#Proffy NLW" src="https://user-images.githubusercontent.com/36802445/89645384-12c4d080-d890-11ea-8d51-1bb5aa65208a.png" width="250px">
+  <img alt="Ciclo iniciado" title="Ciclo iniciado" src="https://user-images.githubusercontent.com/36802445/109427380-e8c03080-79d0-11eb-8bc1-e6d827479c39.png" width="250px">
   
-  <img alt="Proffy NLW" title="#Proffy NLW" src="https://user-images.githubusercontent.com/36802445/89645389-13f5fd80-d890-11ea-9a8f-0cdb01288bef.png" width="250px">
-</p>
-
-### Mobile
-
-<p align="center">
-  <img alt="Proffy NLW" title="#Proffy NLW" src="https://user-images.githubusercontent.com/36802445/89645914-2de41000-d891-11ea-902e-de194b91f3cd.png" width="250px">
-
-  <img alt="Proffy NLW" title="#Proffy NLW" src="https://user-images.githubusercontent.com/36802445/89645916-2e7ca680-d891-11ea-9d90-8d67cfbf3486.png" width="250px">
+  <img alt="Ciclo encerrado" title="Ciclo encerrado" src="https://user-images.githubusercontent.com/36802445/109427379-e8279a00-79d0-11eb-9945-dfe05fc8d896.png" width="250px">
   
-  <img alt="Proffy NLW" title="#Proffy NLW" src="https://user-images.githubusercontent.com/36802445/89645919-2e7ca680-d891-11ea-9881-3d3260437cbc.png" width="250px">
-
-  <img alt="Proffy NLW" title="#Proffy NLW" src="https://user-images.githubusercontent.com/36802445/89646447-2a04bd80-d892-11ea-8cac-cbb2921b2e13.png" width="250px">
-
-  <img alt="Proffy NLW" title="#Proffy NLW" src="https://user-images.githubusercontent.com/36802445/89646175-a8ad2b00-d891-11ea-96c1-1edc6a3d4b2c.png" width="250px">
+  <img alt="Compartilhar" title="Compartilhar" src="https://user-images.githubusercontent.com/36802445/109427378-e8279a00-79d0-11eb-9fbf-afe234d18297.png" width="250px">
 </p>
-
 ---
 
 ## 🚀 Como executar o projeto
 
-Este projeto é divido em três partes:
-
-1. Backend (pasta server)
-2. Frontend (pasta web)
-3. Mobile (pasta mobile)
-
-💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
-
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + NPM, [Yarn](https://yarnpkg.com/) e [Expo](https://expo.io/).
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + NPM, [Yarn](https://yarnpkg.com/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-#### 🎲 Rodando o Backend (servidor)
-
-```bash
-
-# Clone este repositório
-$ git clone git@github.com:douglasbelarmino/moveit.git moveit
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd moveit
-
-# Vá para a pasta server
-$ cd server
-
-# Instale as dependências
-$ yarn
-
-# Execute as migrations no banco de dados
-$ yarn knex:migrate
-
-# Execute a aplicação em modo de desenvolvimento
-$ yarn start
-
-# O servidor inciará na porta:3333 - acesse http://localhost:3333
-
-```
-
-<p align="center">
-  <a href="https://github.com/douglasbelarmino/moveit/blob/master/Insomnia_API_Proffy.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Rodando a aplicação
 
 ```bash
 
@@ -180,30 +107,9 @@ $ cd web
 $ yarn
 
 # Execute a aplicação
-$ yarn start
+$ yarn dev
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
-
-```
-
-#### 🧭 Rodando o aplicativo (Mobile)
-
-```bash
-
-# Clone este repositório
-$ git clone git@github.com:douglasbelarmino/moveit.git moveit
-
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd moveit
-
-# Vá para a pasta da aplicação Front End
-$ cd mobile
-
-# Instale as dependências
-$ yarn
-
-# Execute a aplicação
-$ yarn start
 
 ```
 
@@ -213,39 +119,20 @@ $ yarn start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Web** ([React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
+#### **Web** ([Next.js](https://nextjs.org/) + [TypeScript](https://www.typescriptlang.org/))
 
-- **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
-- **[Axios](https://github.com/axios/axios)**
+- **[ReactJS](https://reactjs.org)**
+- **[JS Cookie](https://github.com/js-cookie/js-cookie)**
+- **[CSS Modules](https://github.com/css-modules/css-modules)**
 
-> Veja o arquivo [package.json](https://github.com/douglasbelarmino/moveit/blob/master/web/package.json)
+> Veja o arquivo [package.json](https://github.com/douglasbelarmino/moveit/blob/master/package.json)
 
-#### **Server** ([NodeJS](https://nodejs.org/en/) + [TypeScript](https://www.typescriptlang.org/))
-
-- **[Express](https://expressjs.com/)**
-- **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
-- **[KnexJS](http://knexjs.org/)**
-- **[SQLite](https://github.com/mapbox/node-sqlite3)**
-- **[ts-node](https://github.com/TypeStrong/ts-node)**
-
-> Veja o arquivo [package.json](https://github.com/douglasbelarmino/moveit/blob/master/server/package.json)
-
-#### **Mobile** ([React Native](http://www.reactnative.com/) + [TypeScript](https://www.typescriptlang.org/))
-
-- **[Expo](https://expo.io/)**
-- **[Expo Google Fonts](https://github.com/expo/google-fonts)**
-- **[React Navigation](https://reactnavigation.org/)**
-- **[Async Storage](https://github.com/react-native-community/async-storage)**
-- **[Axios](https://github.com/axios/axios)**
-
-> Veja o arquivo [package.json](https://github.com/douglasbelarmino/moveit/blob/master/mobile/package.json)
 
 #### **Utilitários**
 
 - Protótipo: **[Figma](https://www.figma.com/)**
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
 - Markdown: **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
-- Ícones: **[Ionicons](https://ionicons.com/)**, **[Feather Icons](https://feathericons.com/)**
 
 - Fontes: **[Archivo](https://fonts.google.com/specimen/Archivo)**, **[Poppins](https://fonts.google.com/specimen/Poppins)**
 
@@ -282,6 +169,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](https://github.com/douglasbelarmino/moveit/blob/master/LICENSE).
 
-Feito com ❤️ por Douglas Belarmino 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglas-belarmino/)
+Feito com ❤️ por Douglas Belarmino 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglas-belarmino)
 
 ---
