@@ -21,6 +21,11 @@
 </p>
 
 <h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/36802445/109426540-f83d7a80-79cc-11eb-9bf3-10cad494a85c.png" />
+</h1>
+
+
+<h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/36802445/109426517-da701580-79cc-11eb-887d-3a0669b5c488.png" />
 </h1>
 
